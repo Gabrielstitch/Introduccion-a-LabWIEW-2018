@@ -1,0 +1,16 @@
+TECNOLOGICO DE ESTUDIOS  SUPERIORES DE HUIXQUILUCAN
+INGENIERIA MECATRONICA
+ALUMNO: GONZALEZ AVILA JESUS GABRIEL
+MATERIA: CONTROL DE PROCESOS
+
+
+INTRODUCCION
+
+LabWIEW  de National Instruments es un entorno de desarrollo integrado especializado  en informatica industrial y cientifica. Su particularidad es que se basa en el lenguaje G (por grfico), creada por Nacional Instrumentos que es enteramnete grafica. Permite el desarrollo de programas informaticos complejos facilitando al mismo tiempo la programacio y en consecuencia disminuir los plazos de desarrollo. Gracias a sus librerias de fucniones dedicadas a la adquisicion de datos, la instrumentacion , al analisis matematicos de las mediciones y lasuavizacion, LabWIEW se dedica especialmente a los bancos de pruebas y mediciones.
+
+
+PRACTICA 1
+
+En esta practica se realizara una interfaz simple, la cual nos permitira hacer la suma de dos numeros y el resultado lo mostrara en una caja de texto, dichos valores se asiganaran c mediante perillas las cuales nos permitara variar el numero de cada valor y asi, realizar cualquier suma .
+a continuacion se muestra la imagen tanto de la interfaz como del codigo:
+
