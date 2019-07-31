@@ -14,7 +14,17 @@ PRACTICA 1
 En esta practica se realizara una interfaz simple, la cual nos permitira hacer la suma de dos numeros y el resultado lo mostrara en una caja de texto, dichos valores se asiganaran c mediante perillas las cuales nos permitara variar el numero de cada valor y asi, realizar cualquier suma .
 a continuacion se muestra la imagen tanto de la interfaz como del codigo:
 
-<img  src"1.png">
+<img  src"https://github.com/Gabrielstitch/imagen1/blob/master/1.png">
 
 
+
+Una vez puestas ambas perillas, en el panel de programacion se insertara una compuerta logica, add,la cual nos permtira realizar la suma de los valores de cada perilla, esta accion se realizara conectando las perillas con la suma y a su vez, esta estara conectada a una salida la cual sera un indicador numerico.
+
+Por lo tanto el resultado sera el siguiente:
+
+<img src"final>
+
+Se insertara un ciclo while para que el prhrama pueda realizar la funcion deseada, en este caso la suma, no obstante, se insertara un boton de stop, el cual nos permitira finalizar el programa cada vez que lo deseemos.
+
+Por ultimo se  ejecutara el programa para corroborar que este realizando la accion deseada, en este caso la suma de ambas perillas o valores y que el resultado sea el deseado.
 
