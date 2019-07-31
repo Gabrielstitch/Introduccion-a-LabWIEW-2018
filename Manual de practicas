@@ -28,3 +28,38 @@ Se insertara un ciclo while para que el prhrama pueda realizar la funcion desead
 
 Por ultimo se  ejecutara el programa para corroborar que este realizando la accion deseada, en este caso la suma de ambas perillas o valores y que el resultado sea el deseado.
 
+
+##PRACTICA 2
+
+Conforme el conocimiento ya obtenido en la practica anterior, se realizara una interfaz, programa el cual nos permita saber el indice de masa corporal de las personas medienta su peso y altura. A continuacion se muestra el programa e interfaz deseado:
+
+
+<img src"indice1">
+
+DESARROLLO
+
+Primero se procedera a insertar el ciclo while, esta estructura nos permite ciclar nuestro programa, con esto nos ayudara a dar continuacion al tipo de señal que se le asigne o que se quiera manejar.
+<img src"ciclo">
+
+Despues comenzaremos por insertar  tres controles numericos, esta opcion la podremos encontrar como Numeric Control, una de ellas correspondera para el dato del peso de la persona, el segundo se le asignara la altura de la misma persona, sin embargo, este dato se insertara en metros, y el tercer control numerico, sera para convertir los metros en centimetros, esto ayudara a obtener la masa corporal de la persona, ya que la ecuacion que se requiere necesita tener los daros en centimetros.
+<img "srccontroles numericos">
+
+Por consiguiente, procederemos a  dirigirnos al panel derecho, el cual se refiere a la programacion de nuestra interfaz,  en este panel nos enfocaremos a realizar la programacion o conexion de nuestro programa.
+En primer lugar se insertara una estructura  numerica, en este caso nos referimos a una division, la cual se conectara al control numerico, el cual le denominamos peso.
+Despues se prod¿cedera a realizar la ecuacion para calcular el indice de masa corporal de la persona, esto se obtendra insertando una estructura numerica, en este casi sera una  operacion suma, la cual se conectara  la altura a una de las en entradas  de esta operacion.
+Se insertara nuevamente una operacion, division , en la primer entrada de esta operacion se conectara al control numerico que tiene por nombre , centimetros, y en la segunda entrada se le asignara una constante numerica , la cual se le asiganara un valor de cien, ya que el peso en metros se dividira entre 100. La salida de esta operacion se conectara a la segunda entrada de la operacion suma.
+La salida de la operacion suma se conectara a una  operacion exponente, la cual encontraremos con el nombre se square, la salida de la operacion exponencial se conectara a la primer operacion, division que se conecto al control numerico de peso.
+Porteriormente, la salida de la  primer division se conectara  un componente el cual se podra encontrar en la biblioteca de componentes con el nombre de Slide, este componente se mostrara en el panel de la izquierda como un  nivel de llenado, se ajustaran los parametros de nuestro Slide de cero a cuarenta, ya que el 40 es el nivel maximo del indice de masa corporal.
+La conexion debera de tener la siguiente forma:
+
+<img src"programacion">
+
+Por ultimo, se le asignara un boton de stop y se conectara a una compuerta Not, esto ayudara a que  cuando se presione el boton, termine el ciclo y para el programa.
+
+<img src"stop">
+
+Una vez que se tiene todo conectado, se procedera a  ejecutar el programa para corroborar que nos muestre el resultado que se deseadodo...
+
+
+
+
